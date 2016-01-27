@@ -1,0 +1,67 @@
+/*body {
+	background-image: url("selinuntedrone.jpg");
+
+}
+*/
+
+p {
+	padding: 5px;
+}
+
+#headers {
+	font: helvetica;
+	color: white;
+	text-align: left;
+	padding: 15px;
+}
+
+.center	{
+	text-align: center;
+
+}
+
+.bodytext {
+	border:5px solid lightgray;
+	background-color: #e0ebeb;
+	padding:10px;
+	border-radius: 10px;
+	margin: auto;
+	color: black;
+}
+
+
+.bodytextindex {
+	width:600px;
+	border:5px solid lightgray;
+	background-color: #e0ebeb;
+	padding:10px;
+	border-radius: 10px;
+	margin: auto;
+	color: black;
+}
+
+.blogtitle{
+	margin:10px;
+	padding:5px;
+}
+
+.floatpic {
+	border: 2px ;
+	padding: 5px;
+	border-radius: 10px;
+	margin: 5px;
+}
+
+
+#footer {
+	width: 250px;
+	height: 15px;
+	border: 3px solid lightgrey;
+	padding:25px;
+	color:#e0ebeb;
+	border-radius: 10px;
+	text-align: center;
+	vertical-align: center;
+	margin: auto;
+
+
